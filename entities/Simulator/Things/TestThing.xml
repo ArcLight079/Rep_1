@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-07-15T16:35:39.138Z"
+         lastModifiedDate="2021-02-16T13:00:08.858Z"
          name="TestThing"
          projectName="Simulator"
          published="false"
@@ -38,14 +38,32 @@
             <ConfigurationTables></ConfigurationTables>
             <ThingShape>
                 <PropertyDefinitions></PropertyDefinitions>
-                <ServiceDefinitions></ServiceDefinitions>
+                <ServiceDefinitions>
+                    <ServiceDefinition
+                     aspect.isAsync="false"
+                     category=""
+                     description=""
+                     isAllowOverride="true"
+                     isLocalOnly="false"
+                     isOpen="false"
+                     isPrivate="false"
+                     name="RunAllTestsCopy">
+                        <ResultType
+                         aspect.dataShape="TestResultData"
+                         baseType="INFOTABLE"
+                         description=""
+                         name="result"
+                         ordinal="0"></ResultType>
+                        <ParameterDefinitions></ParameterDefinitions>
+                    </ServiceDefinition>
+                </ServiceDefinitions>
                 <EventDefinitions></EventDefinitions>
                 <ServiceMappings></ServiceMappings>
                 <ServiceImplementations>
                     <ServiceImplementation
                      description=""
                      handlerName="Script"
-                     name="RunAllTests">
+                     name="RunAllTestsCopy">
                         <ConfigurationTables>
                             <ConfigurationTable
                              description=""

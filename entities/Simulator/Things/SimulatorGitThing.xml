@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-07-15T16:17:16.997Z"
+         lastModifiedDate="2021-02-16T12:42:01.667Z"
          name="SimulatorGitThing"
          projectName="Simulator"
          published="false"
@@ -107,12 +107,12 @@
                             </BranchName>
                             <CommitEmail>
                             <![CDATA[
-                            jdoe@ptc.com
+                            nmd10903@gmail.com
                             ]]>
                             </CommitEmail>
                             <CommitName>
                             <![CDATA[
-                            Vaibhav
+                            Name_1
                             ]]>
                             </CommitName>
                             <FileRepository>
@@ -122,14 +122,14 @@
                             </FileRepository>
                             <GitRepoURL>
                             <![CDATA[
-                            https://github.com/Vaibhav2700/Test0301
+                            https://github.com/ArcLight079/Rep_1
                             ]]>
                             </GitRepoURL>
                             <Password></Password>
                             <RepoPathName></RepoPathName>
                             <User>
                             <![CDATA[
-                            Vaibhav2700
+                            ArcLight079
                             ]]>
                             </User>
                         </Row>
